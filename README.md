@@ -1,4 +1,4 @@
-# Todoist-Inspired To-Do List Application
+# To-Do List Application
 
 A minimalist, simple, and practical To-Do List application inspired by **Todoist**, built for the **CodSoft Frontend Development Internship (Task 2)**.
 
